@@ -1,0 +1,44 @@
+2022-01-30T00:47:56+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on bool in /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3436
+Stack trace:
+#0 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(307): wc_display_product_attributes()
+#1 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /var/www/html/kilifev1/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/additional-information.php(30): do_action()
+#4 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/k...')
+#5 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1820): wc_get_template()
+#6 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php(47): woocommerce_product_additional_information_tab()
+#7 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-cor dans /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php à la ligne 3436
+
+2022-01-30T00:50:03+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on bool in /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3436
+Stack trace:
+#0 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(307): wc_display_product_attributes()
+#1 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /var/www/html/kilifev1/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/additional-information.php(30): do_action()
+#4 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/k...')
+#5 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1820): wc_get_template()
+#6 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php(47): woocommerce_product_additional_information_tab()
+#7 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-cor dans /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php à la ligne 3436
+
+2022-01-30T00:51:56+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on bool in /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3436
+Stack trace:
+#0 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(307): wc_display_product_attributes()
+#1 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /var/www/html/kilifev1/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/additional-information.php(30): do_action()
+#4 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/k...')
+#5 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1820): wc_get_template()
+#6 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php(47): woocommerce_product_additional_information_tab()
+#7 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-cor dans /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php à la ligne 3436
+
+2022-01-30T00:53:50+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on bool in /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3436
+Stack trace:
+#0 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(307): wc_display_product_attributes()
+#1 /var/www/html/kilifev1/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /var/www/html/kilifev1/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/additional-information.php(30): do_action()
+#4 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/k...')
+#5 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1820): wc_get_template()
+#6 /var/www/html/kilifev1/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php(47): woocommerce_product_additional_information_tab()
+#7 /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-cor dans /var/www/html/kilifev1/wp-content/plugins/woocommerce/includes/wc-template-functions.php à la ligne 3436
+

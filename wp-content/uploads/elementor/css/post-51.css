@@ -1,0 +1,26 @@
+.elementor-51 .elementor-element.elementor-element-fc92781:not(.elementor-motion-effects-element-type-background), .elementor-51 .elementor-element.elementor-element-fc92781 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F7BB81;}.elementor-51 .elementor-element.elementor-element-fc92781{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;}.elementor-51 .elementor-element.elementor-element-fc92781 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-menu-toggle{margin-right:auto;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu .elementor-item{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;font-style:normal;text-decoration:none;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main .elementor-item{color:#191E1D;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main .elementor-item:focus{color:#191E1D;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#191E1D;}.elementor-51 .elementor-element.elementor-element-206a03ba .e--pointer-framed .elementor-item:before,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .e--pointer-framed .elementor-item:after{border-color:#191E1D;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#191E1D;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:before,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:after{background-color:#191E1D;}.elementor-51 .elementor-element.elementor-element-206a03ba .e--pointer-framed .elementor-item.elementor-item-active:before,
+					.elementor-51 .elementor-element.elementor-element-206a03ba .e--pointer-framed .elementor-item.elementor-item-active:after{border-color:#191E1D;}body:not(.rtl) .elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--layout-horizontal .elementor-nav-menu > li:not(:last-child){margin-right:34px;}body.rtl .elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--layout-horizontal .elementor-nav-menu > li:not(:last-child){margin-left:34px;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:34px;}.elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--dropdown .elementor-item, .elementor-51 .elementor-element.elementor-element-206a03ba .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:normal;text-transform:none;font-style:normal;text-decoration:none;}.elementor-51 .elementor-element.elementor-element-206a03ba > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}@media(min-width:768px){.elementor-51 .elementor-element.elementor-element-39b883be{width:9.561%;}.elementor-51 .elementor-element.elementor-element-38a6b586{width:89.705%;}}/* Start custom CSS for section, class: .elementor-element-fc92781 */.navbar {
+    position: fixed;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+    opacity: .97;
+    z-index: 701;
+    width: 100%;
+    position: relative;
+}
+.navbar::after {
+
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    margin-top: 32px;
+    background-color: #dda673;
+    height: 3px;
+    width: 100%;
+    left: 0;
+}/* End custom CSS */
